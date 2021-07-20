@@ -1,0 +1,202 @@
+,Company,Journeys,Times_per_day,Times_start,Times_end,Total_time,Payment
+0,XE KHÁCH BẢO YẾN,Hà Nội – Tuyên Quang,5 ,17:30,20:00,2 giờ 30 phút,100000
+1,XE KHÁCH BẢO YẾN,Hà Nội – Tuyên Quang,2 ,17:00,19:30,4 giờ ,160000
+2,XE KHÁCH HẢI NAM,Hà Nội – Sơn La,6 ,16:00,18:30,8 giờ ,180000
+3,XE KHÁCH ĐẠI PHÁT,Hà Nội – Lào Cai,1 ,14:00,16:30,9 giờ ,250000
+4,XE KHÁCH THANH LY,Hà Nội – Cao Bằng,3 ,12:05,14:35,9 giờ ,200000
+5,XE KHÁCH THANH THỦY - THÁI NGUYÊN,Hà Nội – Thái Nguyên,2 ,10:30,14:30,3 giờ 30 phút,60000
+6,XE KHÁCH TUẤN NHUNG,Hà Nội – Yên Bái,4 ,18:00,21:00,2 giờ ,120000
+7,XE KHÁCH THỊNH MỸ,Hà Nội – Hà Giang,1 ,10:30,18:30,7 giờ 30 phút,170000
+8,XE KHÁCH THỊNH MỸ,Hà Nội – Hà Giang,1 ,11:30,19:30,7 giờ 30 phút,200000
+9,XE KHÁCH NGÂN HÀ,Hà Nội – Lai Châu,2 ,13:00,21:00,10 giờ ,350000
+10,XE KHÁCH HƯNG THÀNH,Hà Nội – Lai Châu,2 ,15:00,23:00,8 giờ 30 phút,280000
+11,XE KHÁCH THỦY CHÍNH,Hà Nội – Phú Thọ,9 ,21:00,5:00,1 giờ ,54000
+12,XE KHÁCH THÚY HỘ,Hà Nội – Đắk Lắk,1 ,22:00,6:00,25 giờ ,700000
+13,XE KHÁCH THƯỞNG NGA,Hà Nội – Bắc Kạn,1 ,20:50,5:50,4 giờ 30 phút,95000
+14,XE KHÁCH TRƯỜNG AN,Hà Nội – Phú Thọ,1 ,19:00,4:00,3 giờ ,60000
+15,XE KHÁCH NGỌC PHƯƠNG,Hà Nội – Lạng Sơn,1 ,20:00,5:00,4 giờ 30 phút,120000
+16,XE KHÁCH TRƯỜNG SƠN - PHÚ THỌ,Hà Nội – Phú Thọ,2 ,21:00,6:00,2 giờ ,50000
+17,XE KHÁCH NHẬT TUẤN,Hà Nội – Quảng Trị,1 ,10:00,13:30,13 giờ ,250000
+18,XE KHÁCH NHẬT TUẤN,Hà Nội – Thừa Thiên Huế,1 ,17:00,20:30,15 giờ ,280000
+19,XE KHÁCH DÒNG HIỀN,Hà Nội – Quảng Bình,1 ,6:15,10:45,11 giờ ,250000
+20,XE KHÁCH PHÚC XUYÊN,Hà Nội – Quảng Ninh,12 ,8:45,19:00,4 giờ 18 phút,80000
+21,XE KHÁCH PHÚC XUYÊN,Hà Nội – Bắc Ninh,12 ,17:00,20:00,1 giờ 48 phút,50000
+22,XE KHÁCH PHÚC XUYÊN,Hà Nội – Hải Dương,12 ,18:00,8:15,2 giờ 24 phút,60000
+23,XE KHÁCH HỒNG THỊNH,Hà Nội – Tuyên Quang,6 ,5:00,12:30,2 giờ 30 phút,100000
+24,XE KHÁCH TIẾN ĐẠT THÀNH,Hà Nội – Thừa Thiên Huế,1 ,5:00,12:30,17 giờ ,300000
+25,XE KHÁCH VIETBUS,Hà Nội – Phú Thọ,2 ,19:30,5:30,2 giờ ,80000
+26,XE KHÁCH VIETBUS,Hà Nội – Lào Cai,4 ,17:00,3:00,5 giờ ,250000
+27,XE KHÁCH VIETBUS,Hà Nội – Lào Cai,2 ,18:15,2:45,7 giờ 30 phút,300000
+28,XE KHÁCH VIETBUS,Hà Nội – Yên Bái,2 ,19:30,4:00,3 giờ 45 phút,150000
+29,XE KHÁCH ĐỨC DŨNG,Hà Nội – Lạng Sơn,52 ,12:30,13:30,3 giờ ,130000
+30,XE KHÁCH HÙNG LIÊN,Hà Nội – Yên Bái,53 ,4:00,8:00,4 giờ ,110000
+31,XE KHÁCH ĐỨC PHÚC,Hà Nội – Quảng Ninh,12 ,16:00,20:00,4 giờ 27 phút,110000
+32,XE KHÁCH ĐỨC PHÚC,Hà Nội – Quảng Ninh,20 ,16:15,20:15,4 giờ 12 phút,100000
+33,XE KHÁCH ĐỨC PHÚC,Hà Nội – Bắc Ninh,32 ,4:15,8:15,1 giờ 9 phút,40000
+34,XE KHÁCH KHÁNH HOÀN,Hà Nội – Cao Bằng,3 ,4:30,8:30,8 giờ ,200000
+35,XE KHÁCH KHÔI THÀNH,Hà Nội – Tuyên Quang,3 ,4:45,8:45,4 giờ ,100000
+36,XE KHÁCH PHƯỢNG HÙNG,Hà Nội – Lạng Sơn,1 ,5:00,9:00,4 giờ ,100000
+37,XE KHÁCH KUMHO VIỆT THANH,Hà Nội – Quảng Ninh,28 ,5:15,9:15,4 giờ ,120000
+38,XE KHÁCH DŨNG THẢO,Hà Nội – Yên Bái,2 ,5:30,9:30,5 giờ ,120000
+39,XE KHÁCH HÀ LAN,Hà Nội – Thái Nguyên,9 ,5:45,9:45,2 giờ ,55000
+40,XE KHÁCH HÀ SƠN,Hà Nội – Hà Nội,1 ,6:00,10:00,1 giờ ,100000
+41,XE KHÁCH HÀ SƠN,Hà Nội – Phú Thọ,1 ,6:15,10:15,2 giờ 21 phút,130000
+42,XE KHÁCH HÀ SƠN,Hà Nội – Lào Cai,5 ,6:30,10:30,10 giờ ,250000
+43,XE KHÁCH HÀ SƠN,Hà Nội – Yên Bái,2 ,6:45,10:45,5 giờ ,150000
+44,XE KHÁCH HÀ SƠN,Hà Nội – Hòa Bình,1 ,7:00,11:00,2 giờ ,120000
+45,XE KHÁCH HÀ SƠN,Hà Nội – Thanh Hóa,1 ,7:15,11:15,3 giờ ,120000
+46,XE KHÁCH HÀ SƠN,Hà Nội – Nghệ An,1 ,7:30,11:30,6 giờ ,200000
+47,XE KHÁCH HÀ SƠN,Hà Nội – Hà Tĩnh,1 ,7:45,11:45,7 giờ ,200000
+48,XE KHÁCH LIÊN ANH,Hà Nội – Phú Thọ,1 ,8:00,12:00,2 giờ ,70000
+49,XE KHÁCH LIÊN ANH,Hà Nội – Phú Thọ,1 ,8:15,12:15,2 giờ ,60000
+50,XE KHÁCH HẢI CƯỜNG,Hà Nội – Đắk Lắk,1 ,8:30,12:30,23 giờ ,650000
+51,XE KHÁCH LƯƠNG SÙNG,Hà Nội – Cao Bằng,1 ,8:45,12:45,6 giờ ,170000
+52,XE KHÁCH HẢI VÂN EXPRESS,Hà Nội – Hà Nội,1 ,9:00,13:00,1 giờ ,80000
+53,XE KHÁCH HẢI VÂN EXPRESS,Hà Nội – Phú Thọ,1 ,9:15,13:15,1 giờ 51 phút,100000
+54,XE KHÁCH HẢI VÂN EXPRESS,Hà Nội – Lào Cai,1 ,9:30,13:30,10 giờ ,300000
+55,XE KHÁCH HẢI VÂN EXPRESS,Hà Nội – Lào Cai,1 ,9:45,13:45,10 giờ 12 phút,270000
+56,XE KHÁCH HẢI VÂN EXPRESS,Hà Nội – Lào Cai,1 ,10:00,14:00,10 giờ 6 phút,250000
+57,XE KHÁCH HẢI VÂN EXPRESS,Hà Nội – Hà Giang,1 ,10:15,14:15,7 giờ 54 phút,200000
+58,XE KHÁCH HẢI VÂN EXPRESS,Hà Nội – Tuyên Quang,1 ,10:30,14:30,4 giờ 30 phút,150000
+59,XE KHÁCH HẢI VÂN EXPRESS,Hà Nội – Tuyên Quang,1 ,10:45,14:45,5 giờ 30 phút,170000
+60,XE KHÁCH HẢI VÂN EXPRESS,Hà Nội – Yên Bái,2 ,19:30,2:00,6 giờ 30 phút,150000
+61,XE KHÁCH HẢI VÂN EXPRESS,Hà Nội – Vĩnh Phúc,1 ,16:30,23:00,1 giờ ,80000
+62,XE KHÁCH HẢI VÂN EXPRESS,Hà Nội – Hòa Bình,1 ,20:30,21:30,1 giờ 48 phút,100000
+63,XE KHÁCH HẢI VÂN EXPRESS,Hà Nội – Điện Biên,1 ,19:30,21:25,12 giờ 21 phút,300000
+64,XE KHÁCH HIẾN LỢI,Hà Nội – Cao Bằng,2 ,19:30,7:50,7 giờ 30 phút,170000
+65,XE KHÁCH BẢO NHUNG,Hà Nội – Tuyên Quang,2 ,7:30,15:00,3 giờ ,80000
+66,XE KHÁCH ANH TÚ,Hà Nội – Lai Châu,1 ,9:30,17:00,11 giờ ,300000
+67,XE KHÁCH TUẤN HIỀN,Hà Nội – Sơn La,1 ,5:00,8:00,5 giờ ,130000
+68,XE KHÁCH SAO VIỆT,Hà Nội – Lào Cai,19 ,12:30,15:30,4 giờ ,220000
+69,XE KHÁCH HOÀNG SÂM,Hà Nội – Lai Châu,1 ,20:15,7:15,10 giờ ,200000
+70,XE KHÁCH TUYẾN NAM,Hà Nội – Quảng Ninh,1 ,12:30,17:30,5 giờ 30 phút,120000
+71,XE KHÁCH SƠN HƯNG,Hà Nội – Tuyên Quang,3 ,5:30,9:30,3 giờ 18 phút,80000
+72,XE KHÁCH HIẾU NGHĨA,Hà Nội – Phú Thọ,1 ,6:30,10:30,3 giờ 9 phút,50000
+73,XE KHÁCH HOA HỒNG,Hà Nội – Quảng Trị,1 ,7:30,11:30,14 giờ ,200000
+74,XE KHÁCH BẰNG PHẤN,Hà Nội – Hà Giang,2 ,8:30,12:30,9 giờ ,220000
+75,XE KHÁCH CẦU MÈ,Hà Nội – Hà Giang,2 ,9:30,13:30,9 giờ ,150000
+76,XE KHÁCH CẦU MÈ,Hà Nội – Hà Giang,1 ,10:30,14:30,9 giờ ,180000
+77,XE KHÁCH CẦU MÈ,Hà Nội – Thanh Hóa,1 ,11:30,15:30,4 giờ ,120000
+78,XE KHÁCH CHĂM HẬU,Hà Nội – Bắc Giang,2 ,12:30,16:30,2 giờ ,42000
+79,XE KHÁCH BÙI NGỌC DŨNG,Hà Nội – Lai Châu,6 ,13:30,17:30,12 giờ ,350000
+80,XE KHÁCH THIÊN HÀ- PHÚC XUYÊN,Hà Nội – Lào Cai,1 ,14:30,18:30,7 giờ ,250000
+81,XE KHÁCH ANH KHÔI ĐẮK LẮK,Hà Nội – Đắk Lắk,1 ,15:30,19:30,24 giờ ,800000
+82,CÔNG TY CP XE KHÁCH BẮC GIANG,Hà Nội – Bắc Giang,26 ,16:30,20:30,2 giờ ,50000
+83,XE KHÁCH PHÚC TIẾN,Hà Nội – Tuyên Quang,3 ,17:30,21:30,3 giờ ,70000
+84,XE KHÁCH A TỶ,Hà Nội – Sơn La,1 ,18:30,22:30,7 giờ ,210000
+85,XE KHÁCH MINH KIỆM,Hà Nội – Phú Thọ,2 ,19:30,23:30,2 giờ 40 phút,63000
+86,XE KHÁCH TUẤN THƯ,Hà Nội – Yên Bái,6 ,20:30,0:30,4 giờ ,120000
+87,XE KHÁCH TUẤN THƯ,Hà Nội – Yên Bái,4 ,21:30,1:30,4 giờ ,120000
+88,CÔNG TY TNHHTM VÀ DV HẢI PHƯỢNG,Hà Nội – Yên Bái,7 ,22:30,2:30,3 giờ 30 phút,120000
+89,XE KHÁCH TOÀN NHUNG,Hà Nội – Yên Bái,1 ,23:00,3:00,4 giờ 30 phút,110000
+90,XE KHÁCH ĐÔNG LÝ,Hà Nội – Thanh Hóa,1 ,14:00,18:10,4 giờ 12 phút,100000
+91,XE KHÁCH MINH QUÂN - YÊN BÁI,Hà Nội – Phú Thọ,1 ,12:00,15:30,3 giờ 30 phút,80000
+92,XE KHÁCH QUANG VINH - QUẢNG NINH,Hà Nội – Quảng Ninh,1 ,10:00,14:40,4 giờ 40 phút,140000
+93,XE KHÁCH TUẤN QUANG,Hà Nội – Quảng Ninh,1 ,10:20,15:00,4 giờ 40 phút,90000
+94,XE KHÁCH KA LONG,Hà Nội – Quảng Ninh,21 ,6:00,13:40,7 giờ 40 phút,230000
+95,XE KHÁCH XUÂN TRƯỜNG,Hà Nội – Quảng Ninh,4 ,6:30,14:10,5 giờ ,120000
+96,XE KHÁCH PHƯƠNG ANH - QUẢNG NINH,Hà Nội – Quảng Ninh,1 ,7:00,14:40,5 giờ ,120000
+97,XE KHÁCH CÔNG BÉO,Hà Nội – Quảng Ninh,1 ,7:30,15:10,5 giờ ,100000
+98,XE KHÁCH VIỆT HÙNG,Hà Nội – Quảng Ninh,1 ,8:00,15:40,5 giờ ,120000
+99,XE KHÁCH ANH QUÝ,Hà Nội – Quảng Ninh,1 ,8:30,16:10,5 giờ ,100000
+100,XE KHÁCH MINH QUÂN - PHÚ THỌ,Hà Nội – Phú Thọ,1 ,9:00,16:40,3 giờ 40 phút,50000
+101,XE KHÁCH QUYẾT THẮNG - PHÚ THỌ,Hà Nội – Phú Thọ,1 ,9:30,17:10,1 giờ 40 phút,50000
+102,XE KHÁCH HIỆP HẠNH,Hà Nội – Phú Thọ,1 ,10:00,17:40,1 giờ 40 phút,50000
+103,XE KHÁCH NAM YẾN,Hà Nội – Yên Bái,1 ,17:00,0:40,4 giờ ,100000
+104,XE KHÁCH TUẤN TÀI,Hà Nội – Yên Bái,2 ,17:30,1:10,4 giờ ,110000
+105,XE KHÁCH THÀNH LAN,Hà Nội – Yên Bái,3 ,18:00,1:40,4 giờ ,110000
+106,XE KHÁCH VIỆT PHƯƠNG,Hà Nội – Yên Bái,6 ,18:30,2:10,4 giờ ,110000
+107,XE KHÁCH ANH THÁI,Hà Nội – Phú Thọ,1 ,19:00,2:40,4 giờ ,60000
+108,XE KHÁCH QUẤT LAN,Hà Nội – Tuyên Quang,1 ,10:30,14:30,4 giờ ,100000
+109,XE KHÁCH BẢO MINH,Hà Nội – Phú Thọ,2 ,19:30,3:10,3 giờ ,50000
+110,XE KHÁCH BÌNH MINH - PHÚ THỌ,Hà Nội – Phú Thọ,1 ,20:00,3:40,3 giờ ,60000
+111,XE KHÁCH CHIẾN VIÊN,Hà Nội – Bắc Kạn,1 ,20:30,4:10,5 giờ ,150000
+112,XE KHÁCH CÔNG PHƯỢNG,Hà Nội – Quảng Ninh,1 ,21:00,4:40,6 giờ ,230000
+113,XE KHÁCH CƯỜNG PHÁT,Hà Nội – Lai Châu,2 ,21:30,5:10,8 giờ 30 phút,180000
+114,XE KHÁCH ĐỨC THÀNH,Hà Nội – Quảng Ninh,1 ,22:00,5:40,4 giờ ,120000
+115,XE KHÁCH DŨNG HIỀN,Hà Nội – Tuyên Quang,1 ,22:30,6:10,3 giờ 30 phút,100000
+116,XE KHÁCH AN KHANG,Hà Nội – Yên Bái,1 ,12:35,17:30,5 giờ ,140000
+117,XE KHÁCH HẢI HẰNG,Hà Nội – Yên Bái,1 ,11:45,15:15,3 giờ 30 phút,100000
+118,XE KHÁCH HỒNG ANH,Hà Nội – Kon Tum,1 ,6:00,6:00,24 giờ ,650000
+119,XE KHÁCH HỒNG ANH,Hà Nội – Gia Lai,1 ,6:00,7:00,25 giờ ,700000
+120,XE KHÁCH HỒNG ANH,Hà Nội – Đắk Lắk,1 ,6:00,10:30,28 giờ 30 phút,700000
+121,XE KHÁCH DUNG NGHỊ,Hà Nội – Lạng Sơn,2 ,11:30,16:30,4 giờ ,120000
+122,XE KHÁCH GIANG SƠN,Hà Nội – Tuyên Quang,1 ,13:00,18:00,2 giờ 30 phút,100000
+123,XE KHÁCH HẢI DIỆU,Hà Nội – Lạng Sơn,1 ,14:00,19:00,4 giờ ,100000
+124,XE KHÁCH HÒA BÌNH - YÊN BÁI,Hà Nội – Yên Bái,2 ,16:00,21:00,4 giờ ,120000
+125,XE KHÁCH HỒNG VÂN,Hà Nội – Quảng Ninh,3 ,14:00,19:00,4 giờ ,100000
+126,XE KHÁCH HÙNG TIẾN,Hà Nội – Đắk Lắk,1 ,9:00,10:00,25 giờ ,800000
+127,CÔNG TY TNHH QUANG BẮC,Hà Nội – Tuyên Quang,1 ,11:00,17:00,6 giờ ,140000
+128,XE KHÁCH AN BÌNH,Hà Nội – Hồ Chí Minh,3 ,13:00,18:00,29 giờ ,830000
+129,XE KHÁCH AN BÌNH,Hà Nội – Quảng Ninh,3 ,14:00,19:00,7 giờ ,205000
+130,XE KHÁCH KHẢI HUYỀN,Hà Nội – Hà Giang,1 ,21:00,2:00,8 giờ ,200000
+131,XE KHÁCH KHẢI HUYỀN,Hà Nội – Hà Giang,1 ,13:00,20:00,8 giờ ,200000
+132,CÔNG TY TNHH SAO MAI,Hà Nội – Lào Cai,1 ,14:00,21:00,5 giờ ,320000
+133,CÔNG TY TNHH SAO MAI,Hà Nội – Lào Cai,1 ,21:30,4:30,6 giờ ,320000
+134,XE KHÁCH HIỆU HƯƠNG,Hà Nội – Thái Nguyên,1 ,21:30,5:30,2 giờ 18 phút,60000
+135,XE KHÁCH KIÊN CƯỜNG,Hà Nội – Thái Nguyên,1 ,21:00,5:00,2 giờ 30 phút,60000
+136,XE KHÁCH MẠNH TƯỜNG,Hà Nội – Lai Châu,1 ,8:30,13:30,7 giờ ,200000
+137,XE KHÁCH HOÀNG ANH - LAI CHÂU,Hà Nội – Lai Châu,1 ,8:30,14:30,10 giờ ,350000
+138,XE KHÁCH ĐẠI HUYỀN,Hà Nội – Lạng Sơn,14 ,11:00,13:30,3 giờ 30 phút,130000
+139,XE KHÁCH LÀ THIỀM,Hà Nội – Lạng Sơn,1 ,17:10,19:50,4 giờ ,130000
+140,XE KHÁCH LÀ THIỀM,Hà Nội – Lạng Sơn,1 ,8:15,5:15,3 giờ 30 phút,110000
+141,XE KHÁCH HUY VÕ,Hà Nội – Lạng Sơn,6 ,17:00,3:00,4 giờ ,130000
+142,HTX VẬN TẢI CHÙA HANG,Hà Nội – Thái Nguyên,2 ,5:00,8:30,2 giờ 40 phút,60000
+143,XE KHÁCH HÀ THANH,Hà Nội – Vĩnh Phúc,2 ,6:00,9:30,2 giờ ,50000
+144,CÔNG TY LIÊN DOANH XE KHÁCH QUẢNG NINH,Hà Nội – Quảng Ninh,3 ,7:00,10:30,5 giờ ,120000
+145,XE KHÁCH DUY ĐÔNG,Hà Nội – Tuyên Quang,1 ,8:00,11:30,3 giờ ,70000
+146,XE KHÁCH QUYỀN NGA,Hà Nội – Thái Nguyên,1 ,9:00,12:30,2 giờ ,60000
+147,XE KHÁCH TRUNG HẠNH,Hà Nội – Thái Nguyên,1 ,10:00,13:30,2 giờ 30 phút,60000
+148,XE KHÁCH TRỌNG KHỞI,Hà Nội – Thái Nguyên,1 ,11:00,14:30,2 giờ 30 phút,60000
+149,XE KHÁCH DƯƠNG THÚY,Hà Nội – Thái Nguyên,1 ,12:00,15:30,2 giờ 30 phút,60000
+150,XE KHÁCH HUỆ PHỤ,Hà Nội – Lạng Sơn,1 ,10:25,14:25,4 giờ ,100000
+151,XE KHÁCH HÙNG CƯỜNG - QUẢNG NINH,Hà Nội – Quảng Ninh,2 ,13:00,16:00,4 giờ ,90000
+152,XE KHÁCH HƯƠNG QUỲNH,Hà Nội – Phú Thọ,1 ,14:30,18:30,2 giờ ,50000
+153,XE KHÁCH HUY TRANG,Hà Nội – Yên Bái,1 ,13:00,15:00,4 giờ ,120000
+154,XE KHÁCH KIÊN,Hà Nội – Vĩnh Phúc,1 ,10:45,14:45,1 giờ 30 phút,50000
+155,XE KHÁCH KHÁNH THỦY,Hà Nội – Lai Châu,1 ,14:30,16:00,8 giờ 12 phút,280000
+156,XE KHÁCH KHÁNH THỦY,Hà Nội – Yên Bái,1 ,19:00,3:10,3 giờ 42 phút,200000
+157,XE KHÁCH LIÊN HƯƠNG,Hà Nội – Phú Thọ,1 ,19:00,22:40,2 giờ ,60000
+158,XE KHÁCH LIÊN HẰNG,Hà Nội – Phú Thọ,1 ,14:00,16:00,1 giờ 30 phút,50000
+159,XE KHÁCH LONG VƯỢNG,Hà Nội – Phú Thọ,1 ,15:00,16:30,2 giờ ,70000
+160,XE KHÁCH MAI LUY,Hà Nội – Cao Bằng,1 ,16:00,18:00,6 giờ ,200000
+161,XE KHÁCH MAI LUY,Hà Nội – Cao Bằng,2 ,19:30,1:30,6 giờ ,200000
+162,XE KHÁCH MINH KHAI,Hà Nội – Phú Thọ,1 ,19:00,1:00,1 giờ 30 phút,50000
+163,XE KHÁCH MƯỜI HOA,Hà Nội – Yên Bái,1 ,21:00,3:00,4 giờ ,110000
+164,XE KHÁCH NAM HƯƠNG,Hà Nội – Yên Bái,1 ,11:15,12:45,4 giờ ,140000
+165,XE KHÁCH NĂM THỦY - BẮC GIANG,Hà Nội – Bắc Giang,4 ,14:30,18:30,1 giờ 30 phút,50000
+166,XE KHÁCH NGỌC CƯỜNG,Hà Nội – Hà Giang,2 ,9:30,13:30,8 giờ ,220000
+167,XE KHÁCH NGỌC HÂN,Hà Nội – Lạng Sơn,1 ,4:00,5:30,4 giờ ,100000
+168,XE KHÁCH NGUYỄN NGỌC BẢO,Hà Nội – Phú Thọ,1 ,4:15,5:45,1 giờ 30 phút,50000
+169,XE KHÁCH NGUYÊN TÙNG,Hà Nội – Tuyên Quang,1 ,9:40,11:10,2 giờ 30 phút,70000
+170,XE KHÁCH NGUYỄN XUÂN HÙNG,Hà Nội – Bắc Kạn,1 ,10:00,11:30,4 giờ ,90000
+171,XE KHÁCH QUỐC HÂN,Hà Nội – Phú Thọ,1 ,12:30,20:30,1 giờ 30 phút,50000
+172,XE KHÁCH SƠN CHÍNH,Hà Nội – Phú Thọ,1 ,20:15,4:15,1 giờ 30 phút,50000
+173,XE KHÁCH SƠN HIỀN,Hà Nội – Phú Thọ,1 ,14:10,18:10,2 giờ ,60000
+174,XE KHÁCH SƠN HƯƠNG,Hà Nội – Yên Bái,1 ,14:00,15:30,4 giờ ,90000
+175,XE KHÁCH TÁM HẢI,Hà Nội – Phú Thọ,1 ,12:10,14:40,1 giờ 30 phút,50000
+176,XE KHÁCH TÂN NGA,Hà Nội – Phú Thọ,1 ,12:30,16:30,2 giờ ,70000
+177,XE KHÁCH TRUNG DŨNG - PHÚ THỌ,Hà Nội – Phú Thọ,2 ,16:30,18:00,2 giờ ,50000
+178,XE KHÁCH VÂN NAM,Hà Nội – Phú Thọ,2 ,13:30,15:00,2 giờ ,50000
+179,XE KHÁCH VĨNH DUNG,Hà Nội – Cao Bằng,1 ,13:30,15:30,6 giờ ,200000
+180,XE KHÁCH TRẦN PHÚ,Hà Nội – Hà Giang,1 ,19:30,5:00,9 giờ 30 phút,200000
+181,XE KHÁCH TUYẾN LỰC,Hà Nội – Yên Bái,1 ,12:20,17:20,5 giờ ,100000
+182,XE KHÁCH TUYẾN LỰC,Hà Nội – Yên Bái,1 ,8:30,14:00,5 giờ 30 phút,120000
+183,XE KHÁCH LƯƠNG KIÊN,Hà Nội – Lào Cai,2 ,21:30,1:30,4 giờ ,200000
+184,XE KHÁCH DUY LONG,Hà Nội – Lào Cai,2 ,20:30,0:30,8 giờ 51 phút,220000
+185,XE KHÁCH DUY LONG,Hà Nội – Yên Bái,2 ,9:10,18:00,6 giờ ,170000
+186,XE KHÁCH THIÊN VIỆT,Hà Nội – Lào Cai,1 ,22:40,7:30,5 giờ ,250000
+187,XE KHÁCH THIÊN VIỆT,Hà Nội – Lào Cai,1 ,9:10,15:10,6 giờ 12 phút,300000
+188,XE KHÁCH THIÊN VIỆT,Hà Nội – Thanh Hóa,10 ,22:40,4:40,3 giờ ,100000
+189,XE KHÁCH THIÊN VIỆT,Hà Nội – Nghệ An,3 ,18:00,23:00,7 giờ ,200000
+190,XE KHÁCH KHIÊN NGUYỆT,Hà Nội – Thái Bình,1 ,18:00,0:10,1 giờ 30 phút,80000
+191,XE KHÁCH MAI SỬ,Hà Nội – Thái Bình,2 ,5:30,8:30,1 giờ 51 phút,75000
+192,XE KHÁCH MAI SỬ,Hà Nội – Thái Bình,2 ,6:00,9:00,1 giờ 51 phút,75000
+193,XE KHÁCH QUANG VĂN,Hà Nội – Thái Bình,1 ,6:30,9:30,3 giờ ,70000
+194,XE KHÁCH THIÊN TRƯỜNG,Hà Nội – Thái Bình,2 ,7:00,10:00,2 giờ ,80000
+195,XE KHÁCH TRƯỜNG SƠN - NAM ĐỊNH,Hà Nội – Thái Bình,2 ,7:30,10:30,2 giờ ,75000
+196,XE KHÁCH AN BÌNH TÂM,Hà Nội – Nghệ An,2 ,8:00,11:00,6 giờ 21 phút,200000
+197,XE KHÁCH ẤT HÀ,Hà Nội – Nghệ An,1 ,8:30,11:30,5 giờ 30 phút,170000
+198,XE KHÁCH ĐỨC LAN,Hà Nội – Nghệ An,7 ,9:00,12:00,5 giờ ,170000
+199,XE KHÁCH HOÀNG ANH - NGHỆ AN,Hà Nội – Nghệ An,3 ,9:10,12:10,7 giờ ,180000
+200,XE KHÁCH PHAN HIỀN,Hà Nội – Nghệ An,1 ,9:20,12:20,6 giờ ,150000
