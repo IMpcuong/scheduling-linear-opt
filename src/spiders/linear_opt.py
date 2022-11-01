@@ -4,7 +4,6 @@ import scrapy
 # %%
 """This class provides a crawl request and returns the response as a csv file."""
 
-
 class LinearOptSpider(scrapy.Spider):
 
     name = 'linear_opt'
@@ -68,7 +67,5 @@ class LinearOptSpider(scrapy.Spider):
             if next_page is not None:
                 yield scrapy.Request(
                     response.urljoin(next_page),
-                    callback=self.parse
-                )
-
+                    callback=self.parse)
 # %%
